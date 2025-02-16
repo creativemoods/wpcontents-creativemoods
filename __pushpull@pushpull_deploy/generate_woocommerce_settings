@@ -1,1 +1,1 @@
-{"deployorder":"1","type":"option_setserialized","name":"generate_woocommerce_settings","value":"a:5:{s:14:\"cart_menu_item\";b:1;s:14:\"sidebar_layout\";s:10:\"no-sidebar\";s:14:\"menu_mini_cart\";b:0;s:19:\"cart_menu_item_icon\";s:12:\"shopping-bag\";s:11:\"breadcrumbs\";b:1;}"}
+{"deployorder":"214","type":"option_setserialized","name":"generate_woocommerce_settings","value":"a:5:{s:14:\"cart_menu_item\";b:1;s:14:\"sidebar_layout\";s:10:\"no-sidebar\";s:14:\"menu_mini_cart\";b:0;s:19:\"cart_menu_item_icon\";s:12:\"shopping-bag\";s:11:\"breadcrumbs\";b:1;}"}
