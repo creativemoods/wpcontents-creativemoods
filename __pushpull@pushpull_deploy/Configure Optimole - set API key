@@ -1,0 +1,1 @@
+{"deployorder":"530","type":"custom_code","name":"Configure Optimole - set API key","value":"$request = new Optml_Api(); $data = $request->get_user_data(getenv('OPTIMOLE_API_KEY')); $settings = new Optml_Settings(); $settings->update( 'service_data', $data ); $settings->update( 'api_key', getenv('OPTIMOLE_API_KEY'));"}
