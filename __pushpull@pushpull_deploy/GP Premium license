@@ -1,0 +1,1 @@
+{"deployorder":"150","type":"custom_code","name":"GP Premium license","value":"$license = get_option('gen_premium_license_key'); if ($license === False || $license === \"\") { $request = new WP_REST_Request( 'POST', '\/generatepress-pro\/v1\/license' ); $request->set_body_params(array('key' => getenv('GPPREMIUMLICENSE'))); $response = rest_do_request( $request );"}
